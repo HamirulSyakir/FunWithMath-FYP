@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455915553988",
+    "project_id": "funwithmath2-478f6",
+    "storage_bucket": "funwithmath2-478f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455915553988:android:39d283b619b64bbbeb7591",
+        "android_client_info": {
+          "package_name": "com.funwithmath2.firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-nfeHmNCVoZjwst2sZp2jFm3G35zLSPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
